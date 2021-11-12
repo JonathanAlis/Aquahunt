@@ -2,6 +2,19 @@
 ### v1.0.0
 Fish food chain simulation.
 
+
+![animated](screenshots/aquahunt.gif)
+
+## Screenshots
+<p float="left">
+<img width="450" alt="instructions" src="screenshots/instructions.png">
+<img width="450" alt="instructions" src="screenshots/ex1.png">
+<img width="450" alt="instructions" src="screenshots/lightturnon.png">
+<img width="450" alt="instructions" src="screenshots/lightturnoff.png">
+<img width="450" alt="instructions" src="screenshots/nofog.png">
+<img width="450" alt="instructions" src="screenshots/nowatershader.png">
+<p>
+
 ### Rules:
 - 400 Green fishes:
     - Eat phytoplankton (not rendered) in the middle of ocean
@@ -51,15 +64,6 @@ Compile with: `gcc aquahunt.cpp -L/usr/lib -L/usr/X11R6/lib -lX11 -lGL -lGLU -lg
 
 This is going to generate the file aquahunt. Then run it with `./aquahunt`
 
-## Screenshots
-
-![instructions](screenshots/instructions.png)
-![see view](screenshots/ex1.png)
-![light](screenshots/lightturnon.png)
-![no light](screenshots/lightturnoff.png)
-![no fog](screenshots/nofog.png)
-![no sun shader](screenshots/nowatershader.png)
-![animated](screenshots/aquahunt.gif)
 
 
 ## Bug Reports & Feature Requests
