@@ -7,12 +7,12 @@ Fish food chain simulation.
 
 ## Screenshots
 <p float="left">
-<img width="450" alt="instructions" src="screenshots/instructions.png">
-<img width="450" alt="instructions" src="screenshots/ex1.png">
-<img width="450" alt="instructions" src="screenshots/lightturnon.png">
-<img width="450" alt="instructions" src="screenshots/lightturnoff.png">
-<img width="450" alt="instructions" src="screenshots/nofog.png">
-<img width="450" alt="instructions" src="screenshots/nowatershader.png">
+<img width="400" alt="instructions" src="screenshots/instructions.png">
+<img width="400" alt="instructions" src="screenshots/ex1.png">
+<img width="400" alt="instructions" src="screenshots/lightturnon.png">
+<img width="400" alt="instructions" src="screenshots/lightturnoff.png">
+<img width="400" alt="instructions" src="screenshots/nofog.png">
+<img width="400" alt="instructions" src="screenshots/nowatershader.png">
 <p>
 
 ### Rules:
